@@ -1,17 +1,37 @@
-# my_portfolio
+CHAT-BOT 🤖
 
-A new Flutter project.
+A chatbot application built using Flutter.
 
-## Getting Started
+📌 Features
+Beautiful Flutter UI
+Real-time chatbot responses
+Splash Screen
+Onboarding Screens
+Responsive Design
+Clean and Modern Interface
+Easy Navigation
+Cross-platform Support
 
-This project is a starting point for a Flutter application.
+🚀 Technologies Used
+Flutter
+Dart
+Material UI
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🛠️ Installation
+1. Clone the Repository
+git clone https://github.com/Srujan-Gatla/CHAT-BOT.git
+2. Open Project
+cd CHAT-BOT
+3. Install Dependencies
+flutter pub get
+4. Run the App
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+🔥 Future Improvements
+Voice Assistant Integration
+Firebase Authentication
+AI API Integration
+Dark Mode
+Chat History Storage
